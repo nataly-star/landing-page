@@ -18,12 +18,10 @@ The work used a framework ["bootstrap" version 3.3.7](https://getbootstrap.com/)
   * Nav-tabs
      
   ## Стандартные и кастомные классы
-  ### Bootstrap:
-   container, row, navbar, navbar-collapse, nav, navbar-nav, pull-right, text-center, form-inline, btn, claerfix.
-   ### Стандартные:
-   section, .section-small, .title, .title h2, .title.text-center h2, .section-light, .section-grey, .section-dark, .btn-default, blockquote, .text, .marker.
-  ### Кастомные:
-  photo, item, items, skills, name, position, about, info, contact-icon, data and other.
+  ### *Bootstrap:*
+   container, row, navbar, navbar-collapse, nav, navbar-nav, pull-right, pull-left, navbar-right, text-center, form-inline, btn, clearfix.
+   ### *Кастомные:*
+   section, .section-small, .title, .title h2, .title.text-center h2, .section-light, .section-grey, .section-dark, .btn-default, .btn-small, blockquote, .text, .marker.
   
   ## Для адаптивной верстки используются классы Bootstrap, <meta name="viewport" content="initial-scale=1"> и медиа-запросы (media queries) для ширины экрана @media (max-width: __px):
   * @media (max-width: 1199px) - диапазон (992-1199px), тест на 992px;
